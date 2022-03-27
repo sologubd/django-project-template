@@ -1,0 +1,13 @@
+-c requirements.txt
+
+pip-tools
+
+black
+isort
+
+ipython
+
+pytest-django
+pytest-cov
+
+jedi
