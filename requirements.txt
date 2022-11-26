@@ -13,7 +13,7 @@ django==4.0.3
     #   djangorestframework-simplejwt
 django-split-settings==1.1.0
     # via -r requirements.in
-djangorestframework==3.13.1
+djangorestframework==3.14.0
     # via
     #   -r requirements.in
     #   djangorestframework-simplejwt
