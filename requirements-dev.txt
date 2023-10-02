@@ -32,7 +32,7 @@ ipython==8.1.1
     # via -r requirements-dev.in
 isort==5.10.1
     # via -r requirements-dev.in
-jedi==0.18.1
+jedi==0.19.1
     # via
     #   -r requirements-dev.in
     #   ipython
